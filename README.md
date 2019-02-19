@@ -1,6 +1,9 @@
 # react-native-airplay-btn
 AirPlay library for iOS
 
+# Project moved
+This project is now located at https://github.com/gazedash/react-native-airplay-ios
+
 ## Installation with Automatic Linking
 ```js
 npm i react-native-airplay-btn --save
